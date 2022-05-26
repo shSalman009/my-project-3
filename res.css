@@ -1,0 +1,157 @@
+
+
+@media(max-width:1400px){
+
+    .nav-left {
+        width: 22%;
+    }
+    .nav-left img {
+        margin: 4px 0px;
+    }
+    .nav-left a {
+        font-size: 20px;
+        letter-spacing: 0px;
+    }
+    .nav-ul {
+        width: 39%;
+    }
+    .nav-btn {
+        width: 35%;
+    }
+    .slider-input input {
+        padding: 8px 82px 15px 0px;
+    }
+    .slider-btn a {
+        padding: 15px 55px;
+        font-size: 16px;
+        font-weight: 600;
+    }
+    .slider-content h1 {
+        padding: 20px 0px;
+    }
+    .service-need-respnsv {
+        width: 50%;
+    }
+}
+
+@media(max-width:1200px){
+    .nav-left {
+        width: 100%;
+        text-align: center;
+        border-bottom: 1px solid #444;
+        margin-bottom: 20px;
+        padding-bottom: 10px;
+    }
+    .nav-ul {
+        width: 60%;
+    }
+    .slider-btn {
+        width: 100%;
+        margin-top: 10px;
+    }
+    .slider-input {
+        width: 100%;
+    }
+    .slider-input input {
+        padding: 8px 255px 12px 0px;
+        width: 100%;
+    }
+    .slider-content h4 {
+        font-size: 17px;
+        letter-spacing: 0px;
+        margin-top: 100px;
+    }
+    .slider-content h1 {
+        padding: 0px 0px;
+        font-size: 35px;
+    }
+    .slider-section {
+        padding: 100px 0px;
+    }
+    .about-content h1 {
+        font-size: 30px;
+    }
+    .about-content p {
+        font-size: 15px;
+        margin-top: 20px;
+    }
+    .service-section {
+        padding: 50px 0px;
+    }
+}
+
+
+
+
+
+
+
+@media(max-width:992px){
+    .number-content {
+        width: 50%;
+    }
+    .about-content {
+        margin-top: 0px;
+    }
+    .service-need-respnsv {
+        width: 100%;
+    }
+}
+
+
+
+
+
+
+
+
+@media(max-width:776px){
+    .nav-ul {
+        width: 100%;
+        text-align: center;
+    }
+    .nav-btn {
+        width: 100%;
+        text-align: center;
+        padding-bottom: 10px;
+    }
+    .nav-btn a {
+        float: none !important;
+    }
+    .navbar {
+        position: relative !important;
+    }
+    .slider-content h4 {
+        margin-top: -30px;
+    }
+    .slider-content {
+        width: 100% !important;
+    }
+    .number-content {
+        width: 100%;
+        margin-bottom: 40px;
+    }
+    .service-main h1 {
+        padding-bottom: 15px;
+        font-size: 25px;
+    }
+    .service-main h4 {
+        padding-bottom: 25px;
+        font-size: 15px;
+    }
+    .service-section {
+        padding: 50px 0px;
+    }
+}
+
+
+
+
+
+@media(max-width:430px){
+    .nav-ul ul li a {
+        padding: 0px 3px;
+        font-size: 11px;
+    }
+
+}
